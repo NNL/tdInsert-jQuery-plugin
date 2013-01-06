@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "title": "jQuery.tdinsert",
     "author": {
-        "name": "Adam Lara of NNovation Labs",
-        "url": "https://github.com/NNL"
+        "name": "NNovation Labs",
+        "url": "http://www.NNovationLabs.com"
     },
     "licenses": [
         {
@@ -17,14 +17,14 @@
         }
     ],
     "dependencies": {
-        "jquery": ">=1.4"
+        "jquery": ">=1.4.4"
     },
     "description": "The purpose of this plugin is to append a short or verbose textual time and date to an element",
     "keywords": [
         "widget",
         "time",
         "date",
-        "hsla"
+        "append"
     ],
     "homepage": "http://nnovationlabs.com/projects/tdinsert_plugin/NNL_jquery_tdinsert_project.html",
     "maintainers": [
