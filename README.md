@@ -14,6 +14,13 @@ Full plugin documentation and examples can be found here:
 http://nnovationlabs.com/projects/tdinsert_plugin/NNL_jquery_tdinsert_project.html
 <br>
 
+<strong>Change Log</strong>
+Version 1.1.0
+Added time functionality per the plugin name
+
+Version 1.0.0
+Initial Release
+
 <strong>Licenses</strong>
 
 Unless otherwise specified within any of the plugins, you can assume the following license:
