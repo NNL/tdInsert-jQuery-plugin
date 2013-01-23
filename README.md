@@ -15,6 +15,7 @@ http://nnovationlabs.com/projects/tdinsert_plugin/NNL_jquery_tdinsert_project.ht
 <br>
 
 <strong>Change Log</strong>
+
 Version 1.1.0
 Added time functionality per the plugin name
 
