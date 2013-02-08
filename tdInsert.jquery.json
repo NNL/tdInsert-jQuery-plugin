@@ -1,6 +1,6 @@
 {
     "name": "tdInsert",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "title": "jQuery.tdinsert",
     "author": {
         "name": "NNovation Labs",
@@ -19,7 +19,7 @@
     "dependencies": {
         "jquery": ">=1.4.4"
     },
-    "description": "The purpose of this plugin is to append a short or verbose textual time and date to an element",
+    "description": "The purpose of this plugin is to append either a short or verbose textual time and date to an element",
     "keywords": [
         "widget",
         "time",
